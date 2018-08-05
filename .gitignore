@@ -1,3 +1,5 @@
-# Prerequisites
 *.o
+*.ko
+*.obj
+*.elf
 
