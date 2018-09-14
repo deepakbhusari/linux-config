@@ -12,4 +12,14 @@ set paste
 let g:airline_theme='kolor'
 " colorscheme dracula
 
-             
+set spell
+" spellang=en_us
+hi clear SpellBad
+hi SpellBad cterm=underline ctermfg=red
+set tabstop=4
+set shiftwidth=4
+
+set visualbell
+
+set errorbells
+
