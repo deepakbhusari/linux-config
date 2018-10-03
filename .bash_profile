@@ -27,7 +27,7 @@ export PATH=$PATH:$GOPATH/bin
 
 alias ll='ls -ltrh'
 
-export PS1='$(whoami)@$(hostname):\n$(pwd) $'
+export PS1='$(whoami)@$(hostname):\n$(pwd) $ '
 
 #export PS1='$(whoami):\n$(pwd):'
 
