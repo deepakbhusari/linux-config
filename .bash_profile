@@ -31,3 +31,4 @@ export PS1='$(whoami)@$(hostname):\n$(pwd) $ '
 
 #export PS1='$(whoami):\n$(pwd):'
 
+
