@@ -1,7 +1,7 @@
 " vim rc config
 
 
-let mapleader = " "
+let mapleader = ' '
 
 syntax off
 
