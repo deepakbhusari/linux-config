@@ -1,0 +1,19 @@
+" vim rc config
+
+
+let mapleader = " "
+
+syntax off
+
+set rnu
+set number
+" set paste
+
+
+nmap <c-s> :u<cr>:q<cr>
+imap <c-s> <esc>:update<cr>:q<cr>
+
+
+
+
+
